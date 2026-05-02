@@ -1,0 +1,7 @@
+teleop_twist_joy_node:
+  ros__parameters:
+    axis_linear:  1  # Left stick up/down
+    scale_linear: 1.0 
+    axis_angular: 3  # Right stick left/right
+    scale_angular: 1.0 
+    enable_button: 4 # L1 button (Deadman switch)

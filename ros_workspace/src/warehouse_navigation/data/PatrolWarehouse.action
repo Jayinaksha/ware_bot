@@ -1,0 +1,11 @@
+# Goal
+---
+# Result
+bool success
+string message
+int32 shelves_detected
+---
+# Feedback
+int32 current_shelf
+int32 shelves_completed
+int32 total_shelves
